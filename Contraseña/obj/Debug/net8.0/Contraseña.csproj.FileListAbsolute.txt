@@ -1,0 +1,14 @@
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.AssemblyInfoInputs.cache
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.AssemblyInfo.cs
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.csproj.CoreCompileInputs.cache
+C:\Users\danto\source\repos\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.exe
+C:\Users\danto\source\repos\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.deps.json
+C:\Users\danto\source\repos\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.runtimeconfig.json
+C:\Users\danto\source\repos\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.dll
+C:\Users\danto\source\repos\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.pdb
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.dll
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\refint\Contraseña.dll
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.pdb
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.genruntimeconfig.cache
+C:\Users\danto\source\repos\Contraseña\Contraseña\obj\Debug\net8.0\ref\Contraseña.dll

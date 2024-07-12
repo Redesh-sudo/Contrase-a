@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpAvjfvw/+aev6rQvD32KmSGsqznhUeINYc6oOIa79Ikwm6fw3cZNl3q/XAJXSrXCZ4Yi+Y5zbS63ggAiAv3cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danto\\source\\repos\\Contraseña\\Contraseña\\Contraseña.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
